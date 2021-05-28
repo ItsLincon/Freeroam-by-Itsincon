@@ -2,3 +2,7 @@
 	path = server-data/resources/[fxfiles]/cfx-server-data
 	url = https://github.com/citizenfx/cfx-server-data
 	branch = master
+[submodule "server-data/resources/cfx-server-data"]
+	path = server-data/resources/cfx-server-data
+	url = https://github.com/citizenfx/cfx-server-data
+	branch = master
