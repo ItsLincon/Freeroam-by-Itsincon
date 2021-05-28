@@ -12,4 +12,4 @@ WINDOWS https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 
 All the scripts are free to use but not open edition, that is, those scripts that are not public in the fivem forum or, failing that, in github, will be encrypted so that they cannot be edited by other users for commercial purposes.
 
-<img width="720" src="https://i.imgur.com/zWZJJrF.png">
+<center><img width="720" src="https://i.imgur.com/zWZJJrF.png"></center>
