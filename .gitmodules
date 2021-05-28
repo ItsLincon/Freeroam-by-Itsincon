@@ -1,3 +1,4 @@
-[submodule "server-data/resources/vendor/server-data/[fxfiles]"]
-	path = server-data/resources/vendor/server-data/[fxfiles]
-	url = https://github.com/citizenfx/cfx-server-data.git
+[submodule "server-data/resources/[fxfiles]/cfx-server-data"]
+	path = server-data/resources/[fxfiles]/cfx-server-data
+	url = https://github.com/citizenfx/cfx-server-data
+	branch = master
